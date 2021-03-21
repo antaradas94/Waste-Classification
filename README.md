@@ -9,4 +9,4 @@ To run open cmd:
 cd \Directory
 python app.py  
 
-![](http://url/to/img.png)
+![](/sample.png)
