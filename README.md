@@ -9,4 +9,7 @@ To run open cmd:
 cd \Directory
 python app.py  
 
+For classification there is plastic, paper, e-waste, metallic, glass, organic.
+The next steps would be more categories such as nuclear waste and residual waste.
+
 ![](/sample.png)
